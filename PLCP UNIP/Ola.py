@@ -2,7 +2,7 @@ def saudacao(nome):
     print(f"Olá, {nome}")
 
 def main():
-    nome = "Lucas"
+    nome = "luan"
     saudacao(nome)
 
 if __name__ == '__main__':
